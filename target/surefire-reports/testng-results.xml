@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-09-18T08:30:54Z" name="Command line suite" finished-at="2019-09-18T08:30:54Z" duration-ms="56">
+    <groups>
+    </groups>
+    <test started-at="2019-09-18T08:30:54Z" name="Command line test" finished-at="2019-09-18T08:30:54Z" duration-ms="56">
+      <class name="Udemy.restapiTest">
+        <test-method signature="Deletetwitter()[pri:0, instance:Udemy.restapiTest@6ef888f6]" started-at="2019-09-18T08:30:54Z" name="Deletetwitter" finished-at="2019-09-18T08:30:54Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Deletetwitter -->
+        <test-method signature="postJira()[pri:0, instance:Udemy.restapiTest@6ef888f6]" started-at="2019-09-18T08:30:54Z" name="postJira" finished-at="2019-09-18T08:30:54Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+      </class> <!-- Udemy.restapiTest -->
+      <class name="Udemy.seleniumTest">
+        <test-method signature="BrowseAutomation()[pri:0, instance:Udemy.seleniumTest@10e92f8f]" started-at="2019-09-18T08:30:54Z" name="BrowseAutomation" finished-at="2019-09-18T08:30:54Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowseAutomation -->
+        <test-method signature="ElementsUi()[pri:0, instance:Udemy.seleniumTest@10e92f8f]" started-at="2019-09-18T08:30:54Z" name="ElementsUi" finished-at="2019-09-18T08:30:54Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ElementsUi -->
+      </class> <!-- Udemy.seleniumTest -->
+      <class name="Udemy.appiumTest">
+        <test-method signature="IOSapps()[pri:0, instance:Udemy.appiumTest@1c93084c]" started-at="2019-09-18T08:30:54Z" name="IOSapps" finished-at="2019-09-18T08:30:54Z" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSapps -->
+        <test-method signature="nativeappandroid()[pri:0, instance:Udemy.appiumTest@1c93084c]" started-at="2019-09-18T08:30:54Z" name="nativeappandroid" finished-at="2019-09-18T08:30:54Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nativeappandroid -->
+      </class> <!-- Udemy.appiumTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

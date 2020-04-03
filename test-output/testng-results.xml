@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="134" started-at="2019-09-17T15:01:46Z" finished-at="2019-09-17T15:01:46Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="134" started-at="2019-09-17T15:01:46Z" finished-at="2019-09-17T15:01:46Z">
+      <class name="Udemy.seleniumTest">
+        <test-method status="PASS" signature="BrowseAutomation()[pri:0, instance:Udemy.seleniumTest@271053e1]" name="BrowseAutomation" duration-ms="22" started-at="2019-09-17T15:01:46Z" finished-at="2019-09-17T15:01:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowseAutomation -->
+        <test-method status="PASS" signature="ElementsUi()[pri:0, instance:Udemy.seleniumTest@271053e1]" name="ElementsUi" duration-ms="7" started-at="2019-09-17T15:01:46Z" finished-at="2019-09-17T15:01:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ElementsUi -->
+      </class> <!-- Udemy.seleniumTest -->
+      <class name="Udemy.appiumTest">
+        <test-method status="PASS" signature="IOSapps()[pri:0, instance:Udemy.appiumTest@589838eb]" name="IOSapps" duration-ms="2" started-at="2019-09-17T15:01:46Z" finished-at="2019-09-17T15:01:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSapps -->
+        <test-method status="PASS" signature="nativeappandroid()[pri:0, instance:Udemy.appiumTest@589838eb]" name="nativeappandroid" duration-ms="2" started-at="2019-09-17T15:01:46Z" finished-at="2019-09-17T15:01:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nativeappandroid -->
+      </class> <!-- Udemy.appiumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
