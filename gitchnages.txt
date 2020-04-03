@@ -1,1 +1,1 @@
-git change - bob made changes 
+git change - bob
