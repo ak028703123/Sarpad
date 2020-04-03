@@ -1,5 +1,5 @@
 
 git changes- Bob
 
-it changes- alice
+git changes- alice
 
